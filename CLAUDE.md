@@ -1884,10 +1884,33 @@ Several non-obvious timing issues were worked out:
 
 Shown once per day on app launch when an active row exists. Data source: public Supabase table
 `dedications` (project `zewdazoijdpakugfvnzt`, readable with the anon key already embedded in
-`DedicationService.swift`/`.kt`) — columns `date`, `dedicated_by`, `honoree_name`, `period`
-(`"today"`/`"week"`/`"month"`), `preposition`, `occasion`, `display_text` (optional override),
-`photo_url`, `status` (`"approved"`).
+`DedicationService.swift`/`.kt`) — columns `date`, `end_date`, `dedicated_by`, `honoree_name`,
+`period` (`"today"`/`"week"`/`"month"`), `preposition`, `occasion`, `display_text` (optional
+override), `photo_url`, `status` (`"approved"`).
 
+- **Date range (`date` → `end_date`)**: `end_date` (added via `dedication-date-range-migration.sql`,
+  this repo's root — run manually in the Supabase SQL editor, same reason as the app-targeting
+  migration below) is the actual source of truth for whether a dedication is active — a plain
+  `date <= today <= end_date` range, which lets a dedication cover any arbitrary span, not just a
+  calendar week/month. `period` no longer determines the active window at all — it now controls
+  **only the display wording** ("Today's Learning" / "This Week's Learning" / "This Month's
+  Learning"), decoupled from how long the range actually is. `DedicationService.fetch()` on every
+  platform filters this directly in the Supabase query (`date=lte.<today>&end_date=gte.<today>`)
+  rather than fetching a lookback window and filtering client-side — the old `isActiveToday`
+  calendar-window computation (which used to compare `Calendar.current`'s `weekOfYear`/`month`
+  granularity) is gone entirely on every platform; there's nothing left to keep in sync with the
+  admin form's own week/month math (see below). `end_date` is `NOT NULL` in the DB (defaults to
+  `date` for a single day) and is asserted `>= date` by a check constraint.
+- **Conflict handling**: multiple dedications can be simultaneously active (their ranges overlap).
+  `dedication-form.html` warns the admin at approval time (submitting with "Publish immediately"
+  checked, or clicking "Approve" in the pending queue) if the row being approved overlaps another
+  *already-approved* row that shares at least one app flag — `findOverlaps()`/
+  `confirmNoBlockingOverlap()` — via a `confirm()` dialog listing the conflicting row(s). This is a
+  warning, not a hard block; the admin can still save. If more than one dedication ends up active
+  on the same day regardless, `fetch()` picks one deterministically: `period`'s display tier
+  (today > week > month) first, then most recently created (`order=date.desc,id.desc`) as the
+  tie-break — unchanged from before this feature, just no longer the *only* line of defense against
+  silently dropping one.
 - **App targeting**: three independent boolean columns — `for_anydaf`, `for_anytorah`,
   `for_anytorah_web` — replacing an older single `app` text column (`"anydaf"`/`"anytorah"`/`"both"`)
   that couldn't target AnyTorah Web independently of native AnyTorah. `DedicationService.swift`/`.kt`
@@ -1898,12 +1921,16 @@ Shown once per day on app launch when an active row exists. Data source: public 
   programmatically. The old `app` column is left in place, unused, after the migration.
 - **Admin submission form**: `dedication-form.html` (this repo's root) — a standalone HTML/JS tool
   (not part of either app build) for creating/editing dedication rows, with three independent
-  checkboxes (AnyDaf / AnyTorah / AnyTorah Web) instead of the old three-way radio group.
+  checkboxes (AnyDaf / AnyTorah / AnyTorah Web) instead of the old three-way radio group, plus a
+  Start date/End date pair (with a "Auto-fill end date from this" button that fills End date from
+  the Period selector's week/month convention — Sunday-start week, last day of the calendar month —
+  purely as an editing convenience; the admin can always type any End date directly).
   `getAppFlags()`/`appLabel()` work identically against either live form state or a stored DB row.
-- **Known quirk (not a bug):** the `date` column has no timezone, and `isActiveToday` compares in
-  UTC (`Calendar.current`/`LocalDate.now()`, both effectively local — but the stored `date` itself
-  has no offset). A `period: "today"` dedication can roll out of its window before local midnight
-  for users west of UTC.
+- **Known quirk (not a bug):** the `date`/`end_date` columns have no timezone, and the active-range
+  query compares against each platform's local "today" (`Calendar.current`/`LocalDate.now()` —
+  effectively local time — against columns with no stored offset). A dedication can roll into or
+  out of its window up to a day early/late for users far from UTC, depending on which side of UTC
+  midnight they're on relative to the stored dates.
 
 ---
 

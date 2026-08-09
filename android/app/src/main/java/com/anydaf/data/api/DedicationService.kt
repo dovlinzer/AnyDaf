@@ -7,14 +7,13 @@ import org.json.JSONObject
 import java.net.HttpURLConnection
 import java.net.URL
 import java.time.LocalDate
-import java.time.temporal.WeekFields
-import java.util.Locale
 
 data class Dedication(
     val date: LocalDate,
+    val endDate: LocalDate,   // inclusive; equals `date` for a single-day dedication
     val dedicatedBy: String,
     val honoreeName: String,   // may be empty
-    val period: String,        // "today" | "week" | "month"
+    val period: String,        // "today" | "week" | "month" — display wording only, see below
     val preposition: String,   // "in honor of" | "in memory of" | "on the occasion of" | ""
     val occasion: String,      // supplemental text, may be empty
     val displayText: String?,  // full override
@@ -39,33 +38,27 @@ data class Dedication(
         if (occasion.isNotBlank())    parts.add(occasion)
         return parts.joinToString(" ") + "."
     }
-
-    fun isActiveToday(today: LocalDate): Boolean = when (period) {
-        "week" -> {
-            val weekFields = WeekFields.of(Locale.getDefault())
-            date.get(weekFields.weekOfWeekBasedYear()) == today.get(weekFields.weekOfWeekBasedYear()) &&
-                date.year == today.year
-        }
-        "month" -> date.month == today.month && date.year == today.year
-        else    -> date == today
-    }
 }
 
 object DedicationService {
     private const val SUPABASE_URL = "https://zewdazoijdpakugfvnzt.supabase.co"
     private val ANON_KEY get() = com.anydaf.BuildConfig.SUPABASE_ANON_KEY
 
+    // Fetches the most relevant active dedication. "Active" means today falls in
+    // [date, endDate], checked server-side by the query below. When more than one
+    // dedication is active at once (an admin-acknowledged overlap — see
+    // dedication-form.html's approval-time warning), picks by `period`'s display tier
+    // (today > week > month), then most-recently-created.
     // Returns nil if nothing is active — caller should NOT mark the date as shown.
     suspend fun fetch(): Dedication? = withContext(Dispatchers.IO) {
         try {
             val today = LocalDate.now()
-            val startDate = today.minusDays(31)
             val urlStr = "$SUPABASE_URL/rest/v1/dedications" +
-                "?date=gte.$startDate" +
-                "&date=lte.$today" +
+                "?date=lte.$today" +
+                "&end_date=gte.$today" +
                 "&status=eq.approved" +
                 "&for_anydaf=eq.true" +
-                "&select=date,dedicated_by,honoree_name,period,preposition,occasion,display_text,photo_url" +
+                "&select=date,end_date,dedicated_by,honoree_name,period,preposition,occasion,display_text,photo_url" +
                 "&order=date.desc,id.desc" +
                 "&limit=10"
             val connection = URL(urlStr).openConnection() as HttpURLConnection
@@ -77,7 +70,6 @@ object DedicationService {
             val body = connection.inputStream.bufferedReader().readText()
             JSONArray(body)
                 .let { arr -> (0 until arr.length()).mapNotNull { decode(arr.getJSONObject(it)) } }
-                .filter { it.isActiveToday(today) }
                 .sortedByDescending { periodPriority(it.period) }
                 .firstOrNull()
         } catch (_: Exception) { null }
@@ -86,8 +78,11 @@ object DedicationService {
     private fun decode(row: JSONObject): Dedication? {
         val dateStr = row.optString("date").takeIf { it.isNotBlank() } ?: return null
         val dedicatedBy = row.optString("dedicated_by").takeIf { it.isNotBlank() } ?: return null
+        val date = LocalDate.parse(dateStr)
+        val endDate = row.optString("end_date").takeIf { it.isNotBlank() }?.let { LocalDate.parse(it) } ?: date
         return Dedication(
-            date        = LocalDate.parse(dateStr),
+            date        = date,
+            endDate     = endDate,
             dedicatedBy = dedicatedBy,
             honoreeName = row.optString("honoree_name"),
             period      = row.optString("period").ifBlank { "today" },
