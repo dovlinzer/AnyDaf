@@ -101,19 +101,32 @@
           <div class="grid grid-cols-2 gap-3">
             <div>
               <label class="block text-sm font-medium mb-1" for="date">
-                Date <span class="text-red-500">*</span>
+                Start date <span class="text-red-500">*</span>
               </label>
               <input id="date" type="date" required
                 class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
             </div>
             <div>
-              <label class="block text-sm font-medium mb-1" for="period">Period</label>
-              <select id="period" class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm bg-white">
-                <option value="today">Today's learning</option>
-                <option value="week">This week's learning</option>
-                <option value="month">This month's learning</option>
-              </select>
+              <label class="block text-sm font-medium mb-1" for="end_date">
+                End date <span class="text-red-500">*</span>
+              </label>
+              <input id="end_date" type="date" required
+                class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm" />
+              <p class="text-xs text-gray-400 mt-1">Same as start date for a single day.</p>
             </div>
+          </div>
+          <div class="mt-3">
+            <label class="block text-sm font-medium mb-1" for="period">Display wording</label>
+            <select id="period" class="w-full border border-gray-300 rounded-lg px-3 py-2 text-sm bg-white">
+              <option value="today">Today's learning</option>
+              <option value="week">This week's learning</option>
+              <option value="month">This month's learning</option>
+            </select>
+            <p class="text-xs text-gray-400 mt-1">
+              Only controls the wording ("Today's" / "This Week's" / "This Month's Learning") —
+              the actual active dates are the start/end dates above, which can be any range.
+              <button type="button" id="autofill-end-date-btn" class="text-app-blue underline">Auto-fill end date from this</button>
+            </p>
           </div>
         </fieldset>
 
@@ -243,6 +256,7 @@
           <p class="text-xs font-semibold text-blue-600 uppercase tracking-wide">Preview</p>
           <p id="preview-title" class="font-semibold text-app-blue text-sm"></p>
           <p id="preview-message" class="text-sm text-gray-700 italic"></p>
+          <p id="preview-dates" class="text-xs text-gray-400"></p>
         </div>
 
         <!-- ─ Custom override ─ -->
@@ -384,6 +398,11 @@ function updatePreview() {
 
   document.getElementById('preview-title').textContent = periodTitles[period] ?? "Today's Learning";
 
+  const startD = v('date');
+  const endD = v('end_date');
+  document.getElementById('preview-dates').textContent =
+    startD && endD ? `Active ${startD}${endD !== startD ? ' → ' + endD : ''}` : '';
+
   if (!dedicatedBy) {
     document.getElementById('preview-message').textContent = '';
     return;
@@ -406,14 +425,33 @@ function updatePreview() {
 // Wire preview listeners immediately — both 'input' (text fields) and 'change' (selects/radios)
 ['dedicated_by', 'honoree_name', 'occasion', 'display_text']
   .forEach(id => document.getElementById(id).addEventListener('input', updatePreview));
-['period', 'preposition', 'dedicated_by', 'honoree_name', 'occasion', 'display_text']
+['date', 'end_date', 'period', 'preposition', 'dedicated_by', 'honoree_name', 'occasion', 'display_text']
   .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
 ['app-anydaf', 'app-anytorah', 'app-anytorah-web']
   .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
 
-// Set date default
+// Set date defaults
 document.getElementById('date').value = today();
+document.getElementById('end_date').value = today();
 updatePreview();
+
+// ── End-date auto-fill from the period selector ────────────────────────────
+function autofillEndDate() {
+  const d = v('date');
+  if (!d) return;
+  const period = v('period');
+  const start = new Date(d + 'T00:00:00');
+  let end = start;
+  if (period === 'week') {
+    end = new Date(start);
+    end.setDate(start.getDate() + (6 - start.getDay()));
+  } else if (period === 'month') {
+    end = new Date(start.getFullYear(), start.getMonth() + 1, 0);
+  }
+  set('end_date', end.toISOString().slice(0, 10));
+  updatePreview();
+}
+document.getElementById('autofill-end-date-btn').addEventListener('click', autofillEndDate);
 
 // ── State ──────────────────────────────────────────────────────────────────
 let currentUser = null;
@@ -423,6 +461,46 @@ let db = null;
 let selectedPhotoFile = null;   // File selected in drop zone
 let existingPhotoUrl = null;    // photo_url from the row being edited
 let clearExistingPhoto = false; // admin clicked "Remove" on existing photo
+let allDedications = [];        // last-loaded admin rows, keyed for approve()'s overlap check
+
+// ── Overlap check (approval-time warning, not a hard block) ────────────────
+// A dedication only actually displays once it's approved, so this only matters against other
+// *approved* rows, and only for apps the two rows both target. Doesn't stop the save — the admin
+// decides whether the overlap is intentional (see dedication-date-range-migration.sql).
+async function findOverlaps(row, excludeId) {
+  if (!db || !row.date || !row.end_date) return [];
+  let query = db.from('dedications')
+    .select('id, dedicated_by, date, end_date, period, for_anydaf, for_anytorah, for_anytorah_web')
+    .eq('status', 'approved')
+    .lte('date', row.end_date)
+    .gte('end_date', row.date);
+  if (excludeId) query = query.neq('id', excludeId);
+  const { data, error } = await query;
+  if (error || !data) return [];
+  return data.filter(r =>
+    (row.for_anydaf && r.for_anydaf) ||
+    (row.for_anytorah && r.for_anytorah) ||
+    (row.for_anytorah_web && r.for_anytorah_web)
+  );
+}
+
+function describeOverlap(r) {
+  const range = r.end_date && r.end_date !== r.date ? `${r.date} → ${r.end_date}` : r.date;
+  return `• ${r.dedicated_by} (${range}, ${periodLabel(r.period)}, ${appLabel(r)})`;
+}
+
+// Returns true if it's OK to proceed (no overlaps, or the admin confirmed anyway).
+async function confirmNoBlockingOverlap(row, excludeId) {
+  if (row.status !== 'approved') return true;
+  const overlaps = await findOverlaps(row, excludeId);
+  if (overlaps.length === 0) return true;
+  const list = overlaps.map(describeOverlap).join('\n');
+  return confirm(
+    `This overlaps with ${overlaps.length} already-approved dedication(s) sharing an app:\n\n${list}\n\n` +
+    `Only one will actually display on any given day (today > week > month wording, then most ` +
+    `recently created). Save anyway?`
+  );
+}
 
 // ── Supabase init (wrapped so a CDN hiccup can't break the preview above) ─
 try {
@@ -541,6 +619,15 @@ document.getElementById('dedication-form').addEventListener('submit', async e =>
   const approvedChecked = document.getElementById('create-approved').checked;
   const status = (isAdmin && approvedChecked) ? 'approved' : 'pending';
 
+  if (v('end_date') < v('date')) {
+    btn.disabled = false;
+    btn.textContent = editingId ? 'Update Dedication' : 'Submit Dedication';
+    msg.textContent = 'End date must be on or after the start date.';
+    msg.className = 'text-sm text-center text-red-600';
+    msg.classList.remove('hidden');
+    return;
+  }
+
   // ── Upload photo if a new one was selected ──────────────────────────────
   let photoUrl = clearExistingPhoto ? null : existingPhotoUrl;
   if (selectedPhotoFile) {
@@ -574,6 +661,7 @@ document.getElementById('dedication-form').addEventListener('submit', async e =>
   const row = {
     dedicated_by:    v('dedicated_by'),
     date:            v('date'),
+    end_date:        v('end_date'),
     period:          v('period'),
     preposition:     v('preposition'),
     honoree_name:    v('honoree_name'),
@@ -587,6 +675,12 @@ document.getElementById('dedication-form').addEventListener('submit', async e =>
     ...getAppFlags(),
     status,
   };
+
+  if (!(await confirmNoBlockingOverlap(row, editingId))) {
+    btn.disabled = false;
+    btn.textContent = editingId ? 'Update Dedication' : 'Submit Dedication';
+    return;
+  }
 
   let error;
   if (editingId) {
@@ -608,6 +702,7 @@ document.getElementById('dedication-form').addEventListener('submit', async e =>
     } else {
       document.getElementById('dedication-form').reset();
       document.getElementById('date').value = today();
+      document.getElementById('end_date').value = today();
       resetPhotoUI();
       updatePreview();
       msg.textContent = status === 'approved'
@@ -627,6 +722,7 @@ function cancelEdit() {
   editingId = null;
   document.getElementById('dedication-form').reset();
   document.getElementById('date').value = today();
+  document.getElementById('end_date').value = today();
   document.getElementById('form-title').textContent = 'Submit a Dedication';
   document.getElementById('submit-btn').textContent = 'Submit Dedication';
   document.getElementById('cancel-edit-btn').classList.add('hidden');
@@ -644,6 +740,7 @@ async function loadAdminData() {
 
   if (error) { console.error(error); return; }
 
+  allDedications = data;
   const pending  = data.filter(r => r.status === 'pending');
   const approved = data.filter(r => r.status === 'approved');
 
@@ -670,7 +767,7 @@ function dedicationCard(row) {
         <div class="flex-1 space-y-0.5">
           <div class="flex items-center gap-2 flex-wrap">
             <span class="font-medium text-sm">${esc(row.dedicated_by)}</span>
-            <span class="text-xs text-gray-400">${row.date} · ${periodLabel(row.period)}</span>
+            <span class="text-xs text-gray-400">${row.date}${row.end_date && row.end_date !== row.date ? ' → ' + row.end_date : ''} · ${periodLabel(row.period)}</span>
             <span class="text-xs bg-gray-100 text-gray-600 rounded-full px-2 py-0.5">${appLabel(row)}</span>
             ${isPending
               ? '<span class="text-xs bg-amber-100 text-amber-700 rounded-full px-2 py-0.5">Pending</span>'
@@ -699,6 +796,8 @@ function emptyState(msg) {
 }
 
 async function approve(id) {
+  const row = allDedications.find(r => r.id === id);
+  if (row && !(await confirmNoBlockingOverlap({ ...row, status: 'approved' }, id))) return;
   await setStatus(id, 'approved');
 }
 
@@ -717,6 +816,7 @@ function startEdit(row) {
   editingId = row.id;
   set('dedicated_by',    row.dedicated_by ?? '');
   set('date',            row.date ?? today());
+  set('end_date',        row.end_date ?? row.date ?? today());
   set('period',          row.period ?? 'today');
   set('preposition',     row.preposition ?? '');
   set('honoree_name',    row.honoree_name ?? '');

@@ -3,9 +3,10 @@ import Foundation
 struct Dedication: Identifiable {
     var id: String { "\(date.timeIntervalSince1970)-\(period)-\(dedicatedBy)" }
     let date: Date
+    let endDate: Date         // inclusive; equals `date` for a single-day dedication
     let dedicatedBy: String
     let honoreeName: String   // may be empty
-    let period: String        // "today" | "week" | "month"
+    let period: String        // "today" | "week" | "month" — display wording only, see below
     let preposition: String   // "in honor of" | "in memory of" | "on the occasion of" | ""
     let occasion: String      // supplemental text, may be empty
     let displayText: String?  // full override
@@ -33,38 +34,26 @@ struct Dedication: Identifiable {
         if !occasion.isEmpty     { parts.append(occasion) }
         return parts.joined(separator: " ") + "."
     }
-
-    var isActiveToday: Bool {
-        let cal = Calendar.current
-        let today = Date()
-        switch period {
-        case "week":
-            return cal.isDate(date, equalTo: today, toGranularity: .weekOfYear)
-        case "month":
-            return cal.isDate(date, equalTo: today, toGranularity: .month)
-        default:
-            return cal.isDateInToday(date)
-        }
-    }
 }
 
 enum DedicationService {
     private static let supabaseURL = "https://zewdazoijdpakugfvnzt.supabase.co"
 
-    // Fetches the most relevant active dedication (today > week > month priority).
+    // Fetches the most relevant active dedication. "Active" means today falls in
+    // [date, endDate], checked server-side by the query below. When more than one
+    // dedication is active at once (an admin-acknowledged overlap — see
+    // dedication-form.html's approval-time warning), picks by `period`'s display tier
+    // (today > week > month), then most-recently-created.
     // Returns nil if nothing is active — caller should NOT mark the date as shown.
     static func fetch() async -> Dedication? {
-        let today = Date()
-        let startDate = Calendar.current.date(byAdding: .day, value: -31, to: today)!
-        let todayStr = formatDate(today)
-        let startStr = formatDate(startDate)
+        let todayStr = todayDateString()
 
         let urlStr = "\(supabaseURL)/rest/v1/dedications"
-            + "?date=gte.\(startStr)"
-            + "&date=lte.\(todayStr)"
+            + "?date=lte.\(todayStr)"
+            + "&end_date=gte.\(todayStr)"
             + "&status=eq.approved"
             + "&for_anydaf=eq.true"
-            + "&select=date,dedicated_by,honoree_name,period,preposition,occasion,display_text,photo_url"
+            + "&select=date,end_date,dedicated_by,honoree_name,period,preposition,occasion,display_text,photo_url"
             + "&order=date.desc,id.desc"
             + "&limit=10"
         guard let url = URL(string: urlStr) else { return nil }
@@ -79,7 +68,6 @@ enum DedicationService {
 
         return rows
             .compactMap { decode($0) }
-            .filter { $0.isActiveToday }
             .sorted { periodPriority($0.period) > periodPriority($1.period) }
             .first
     }
@@ -90,8 +78,10 @@ enum DedicationService {
               let dedicatedBy = row["dedicated_by"] as? String,
               !dedicatedBy.isEmpty
         else { return nil }
+        let endDate = (row["end_date"] as? String).flatMap(parseDate) ?? date
         return Dedication(
             date: date,
+            endDate: endDate,
             dedicatedBy: dedicatedBy,
             honoreeName: (row["honoree_name"] as? String) ?? "",
             period:      (row["period"] as? String) ?? "today",

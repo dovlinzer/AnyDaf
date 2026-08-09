@@ -55,13 +55,22 @@ struct SplashView: View {
         GeometryReader { geo in
             let short = min(geo.size.width, geo.size.height)
             let isPad = sizeClass == .regular
+            let isLandscape = geo.size.width > geo.size.height
             // Matches AnyTorah's fixed 260pt logo size (AnyTorah isn't proportional to
             // screen width) on a typical iPhone; iPad keeps the same relative scale-down.
             let logoWidth = short * (isPad ? 0.42 : 0.65)
+            let logoHeight = logoWidth / Self.logoAspectRatio
+            let logoBottomPad = geo.size.height * 0.075
+            // On iPad landscape the short screen height crowds the main content against
+            // the logo pinned at the bottom, so instead of centering in the full height,
+            // it centers within just the space above the logo (equal gap above the block
+            // and between the block and the logo).
+            let topSectionHeight = geo.size.height - logoHeight - logoBottomPad
             ZStack(alignment: .bottom) {
                 SplashView.background.ignoresSafeArea()
 
-                // Main content centered in the upper portion
+                // Main content — centered normally, but on iPad landscape it's centered
+                // within the space above the logo instead of the full screen height.
                 VStack(spacing: 14) {
                     Text("AnyDaf")
                         .font(.system(size: 42, weight: .bold))
@@ -79,13 +88,17 @@ struct SplashView: View {
                         .foregroundStyle(Color(red: 0.75, green: 0.85, blue: 1).opacity(0.75))
                 }
                 .padding(.horizontal, 32)
-                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
+                .frame(maxWidth: .infinity,
+                       maxHeight: (isPad && isLandscape) ? topSectionHeight : .infinity,
+                       alignment: .center)
+                .frame(maxWidth: .infinity, maxHeight: .infinity,
+                       alignment: (isPad && isLandscape) ? .top : .center)
 
                 // Logo pinned near the bottom
                 YCTLogoAnimated()
-                    .frame(width: logoWidth, height: logoWidth / Self.logoAspectRatio)
+                    .frame(width: logoWidth, height: logoHeight)
                     .clipShape(RoundedRectangle(cornerRadius: 16))
-                    .padding(.bottom, geo.size.height * 0.075)
+                    .padding(.bottom, logoBottomPad)
             }
         }
         .ignoresSafeArea()
